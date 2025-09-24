@@ -38,7 +38,7 @@ This is a **frontend-only clone** of [Zerodha](https://zerodha.com/) built using
 |--------|--------|-------|
 | ![Product](screenShots/productPage.png) | ![Signup](screenShots/signupPage.png) | ![Login](screenShots/loginPage.png) |
 
-> 💡 You can upload screenshots to [Imgur](https://imgur.com/) or GitHub and paste the links here.
+> 💡 You can upload screenshots to [Img](screenShots) or GitHub and paste the links here.
 
 ---
 
