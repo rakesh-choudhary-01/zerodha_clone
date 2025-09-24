@@ -66,3 +66,49 @@ npm install
 
 # 3. Start the development server
 npm run dev
+
+```
+
+## 📁 Folder Structure
+
+```bash
+
+zerodha-clone/
+├── public/
+│   └── media/
+│       └── images/
+├── src/
+│   ├── assets/
+│   ├── landingPages/
+│   │   ├── about/
+│   │   ├── home/
+│   │   ├── login/
+│   │   ├── pricing/
+│   │   ├── product/
+│   │   ├── signup/
+│   │   ├── AuthContext.jsx
+│   │   ├── DashBoardPage.jsx
+│   │   ├── Footer.jsx
+│   │   ├── Navbar.jsx
+│   │   ├── NotFound.jsx
+│   │   ├── OpenAccout.jsx
+│   │   └── ShowFlash.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   └── main.jsx
+├── index.html
+├── vite.config.js
+├── package.json
+└── README.md
+
+
+```
+
+## 📌 Notes
+
+- This is a static UI-only project — no backend or database.
+- Forms are not functional; they are for design/demo only.
+- Built purely for learning, practice, and portfolio.
+
+---
