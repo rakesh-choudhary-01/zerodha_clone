@@ -32,11 +32,11 @@ This is a **frontend-only clone** of [Zerodha](https://zerodha.com/) built using
 
 | Homepage | About | Pricing |
 |----------|-------|---------|
-| ![Homepage](https://your-image-link-homepage.com) | ![About](https://your-image-link-about.com) | ![Pricing](https://your-image-link-pricing.com) |
+| ![Homepage](screenShots/homePage.png) | ![About](screenShots/aboutPage.png) | ![Pricing](screenShots/pricingPage.png) |
 
 | Product | Signup | Login |
 |--------|--------|-------|
-| ![Product](https://your-image-link-product.com) | ![Signup](https://your-image-link-signup.com) | ![Login](https://your-image-link-login.com) |
+| ![Product](screenShots/productPage.png) | ![Signup](screenShots/signupPage.png) | ![Login](screenShots/loginPage.png) |
 
 > 💡 You can upload screenshots to [Imgur](https://imgur.com/) or GitHub and paste the links here.
 
