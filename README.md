@@ -1,5 +1,4 @@
-# zerodha_clone
-# 📈 Zerodha Clone (Frontend Only)
+# 📈 Zerodha Clone
 
 This is a **frontend-only clone** of [Zerodha](https://zerodha.com/) built using **React + Vite**, **HTML**, and **pure CSS**. The project includes static pages like the homepage, about, pricing, signup, login, and product. It replicates the layout and styling of Zerodha's official site for educational and practice purposes.
 
